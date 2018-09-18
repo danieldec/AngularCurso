@@ -1,0 +1,4 @@
+div.col>h1 {
+    border-bottom-style: solid;
+    border-bottom: 15px, black;
+}
